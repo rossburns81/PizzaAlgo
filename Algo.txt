@@ -1,3 +1,13 @@
-1. Decide which business to order from
-2. Decide which type of pizza to order
-3. Pay for pizza
+Steps To Ordering a Pizza
+
+1. Decide the restaurant
+    1a. Dine-in, carryout, or delivery
+2. Decide how many people are eating
+3. Calculate how many pizzas
+4. Decide the toppings
+5. Calculate subtotal
+6. Calculate the total after tax
+7. Decide pick up or delivery
+8. Calculate Pay
+9. Pick up or get delivered
+10. Enjoy
